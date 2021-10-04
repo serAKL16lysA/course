@@ -29,5 +29,14 @@
 #### 真核生物
 * 以酵母菌為例
 * autonomously replicating sequence (ARS)為酵母菌的*Ori*。
-* 長度100-150bp，有共
+* 長度100-150bp，有consensus sequence, 11 nucleotide core sequence, AT-rich，容易打開。
+* flanking sequence + core sequence = ARS
+---
+* 原核生物的replication initation
+1. Dna a bind to oriC 9-mer tandom repeat result in unwind in 13-mer repeat.
+2.SSB bind to single strand DNA to stabilize it.
+3. Dna c carry Dna b to unwind region.
+4. Dna b is DNA helicase.
+---
+* eukayotes
 * 
